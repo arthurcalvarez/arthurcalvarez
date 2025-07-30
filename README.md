@@ -5,10 +5,10 @@
 Soy un apasionado del desarrollo de software con conocimientos en múltiples tecnologías y un enfoque práctico y colaborativo para resolver problemas. Actualmente estoy estudiando Gestión de Tecnología de la Información en la UADE y complementando mis estudios con proyectos, asesorías y cursos especializados.
 
 - 🎓 Estudiante de IT en Universidad de la Empresa - UADE  
-- 📚 Más de 10 certificaciones en tecnologías relacionadas al desarrollo  
-- 💻 Asesor educativo en programación (Fundamentos, POO, Web)  
+- 📚 Certificado en Google Cloud y Google AI (Vertex)
+- 💻 Asesor educativo en programación 
 - 🧠 Amante del aprendizaje constante y del código limpio  
-- ☕ Fan del Pair Programming y de Live Share  
+- ☕ Fanatico de la frase "Nunca pares de aprender"  
 
 ---
 
