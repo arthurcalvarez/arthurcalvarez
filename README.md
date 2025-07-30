@@ -2,12 +2,10 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un apasionado del desarrollo de software con conocimientos en múltiples tecnologías y un enfoque práctico y colaborativo para resolver problemas. Actualmente estoy estudiando Gestión de Tecnología de la Información en la UADE y complementando mis estudios con proyectos, asesorías y cursos especializados.
-
-- 🎓 Estudiante de IT en Universidad de la Empresa - UADE  
+- 🎓 Estudiante de IT en UADE
 - 📚 Certificado en Google Cloud y Google AI (Vertex)
 - 💻 Asesor educativo en programación 
-- 🧠 Amante del aprendizaje constante y del código limpio  
+- 🧠 Amante del competitivo del LoL
 - ☕ Fanatico de la frase "Nunca pares de aprender"  
 
 ---
@@ -45,7 +43,7 @@ Soy un apasionado del desarrollo de software con conocimientos en múltiples tec
 ## 🌱 Actualmente
 
 - Dando clases particulares en programación y desarrollo web  
-- Participando en bootcamps y formaciones intensivas  
+- Participando en la creacion de un MVP
 - Creando proyectos con Java + Swing, React y SQL  
 - Explorando nuevas formas de aprender y enseñar tecnología  
 
@@ -59,9 +57,9 @@ Soy un apasionado del desarrollo de software con conocimientos en múltiples tec
 
 ---
 
-## 🧠 Frase del día
+## 🧠 Frase que me resuena 
 
-> *"El software es una gran combinación entre arte e ingeniería."* – Bill Gates
+> *"Nunca pares de Aprender"* - Freddy Vega
 
 ---
 
