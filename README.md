@@ -18,10 +18,8 @@
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 ---
 
