@@ -29,8 +29,8 @@ Soy un apasionado del desarrollo de software con conocimientos en múltiples tec
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-C-A&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-C-A&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthurcalvarez&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurcalvarez&layout=compact&theme=radical)
 
 ---
 
