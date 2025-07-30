@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td>
-      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurcalvarez&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      <img height="155px" src="https://github-readme-stats.vercel.app/api?username=arthurcalvarez&show_icons=true&theme=radical&hide_border=true&count_private=true" />
     </td>
     <td>
       <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcalvarez&layout=compact&theme=radical&hide_border=true" />
@@ -61,10 +61,5 @@
 
 ---
 
-## 🐍 Animación de contribuciones
-
-![Snake Animation](https://github.com/arthurcalvarez/arthurcalvarez/blob/output/github-contribution-grid-snake.svg)
-
----
 
 *¡Gracias por visitar mi perfil! Si llegaste hasta acá, ¡quizás deberíamos codear juntos! 🚀*
