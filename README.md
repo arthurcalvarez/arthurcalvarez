@@ -46,7 +46,6 @@ Soy un apasionado del desarrollo de software con conocimientos en múltiples tec
 ## 📫 Conectá conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arthurcalvarez)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/Arthur-C-A)
 [![Correo](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:object.arthur@gmail.com)
 
 ---
